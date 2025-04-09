@@ -19,9 +19,9 @@ A cross-platform mobile application built with **Flutter** that allows users to 
 - **Node.js + Express.js** – Backend
 - **MongoDB** – Database
 - **Cloudinary** – Image uploads
-- **CalorieNinjas / USDA API** – Nutrition analysis
+- **CalorieNinjas** – Nutrition analysis
 - **JWT** – Authentication
-- **ChatGPT API** – AI recipe suggestions
+- **Gemini API** – AI recipe suggestions
 
 ---
 
