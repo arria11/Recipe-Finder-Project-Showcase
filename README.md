@@ -26,19 +26,29 @@ A cross-platform mobile application built with **Flutter** that allows users to 
 ---
 ## 📸 Screenshots
 Login Page:
+
 ![image](https://github.com/user-attachments/assets/c9c6ad0d-a804-4719-bad7-cb5694ffc32a)
 
+
 Home Page:
+
 ![image](https://github.com/user-attachments/assets/39bb6b1a-ff2f-42d0-8561-5a7cc873e22c)
 
+
 Search with AI Page:
+
 ![image](https://github.com/user-attachments/assets/7d61d155-ff63-49f4-b56b-6f0ccec1ace2)
 
+
 Recipe Upload Page:
+
 ![image](https://github.com/user-attachments/assets/529daf3e-52da-4302-8fa4-c771fa80d72d)
+
 ![image](https://github.com/user-attachments/assets/1f1e57a3-8733-4543-80a8-ca1a9ead43f0)
 
+
 Recipe Post Page:
+
 ![image](https://github.com/user-attachments/assets/c1f746ed-a051-4760-b98c-015eb0a43bc1)
 
 
